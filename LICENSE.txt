@@ -1,4 +1,4 @@
-MIT License
+npx quartz build --serveMIT License
 
 Copyright (c) 2021 jackyzha0
 
